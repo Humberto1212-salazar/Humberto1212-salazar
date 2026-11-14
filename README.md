@@ -1,4 +1,3 @@
-![Data Engineering Cover](./4430_whatismachinelearning_hero.webp)
 
 # 💫 About Me:
 
