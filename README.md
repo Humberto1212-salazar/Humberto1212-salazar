@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate about data engineering, Python, SQL, ETL pipelines, automation, and cloud technologies. Building projects with Docker, PostgreSQL, Apache Airflow, Apache Kafka, and Apache Spark while continuously developing my skills in data infrastructure, distributed systems, and MLOps.
+Passionate about data engineering, Python, SQL, ETL pipelines, automation, and cloud technologies. Building projects with Docker, PostgreSQL, Apache Airflow, Apache Kafka, and Apache Spark while continuously developing my skills in data infrastructure, distributed systems, and MLOps..
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/humberto-salazar-rodriguez-884893406/)
